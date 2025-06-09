@@ -19,7 +19,7 @@
 *✧ - написано мной.*
 
 ## Как пользоваться
-Скачайте последнюю версию: [Скачать](releases/latest/download/Melody-monitor.exe)
+Скачайте последнюю версию: [Скачать](https://github.com/sx66627/melody-monitor-kuca/releases/latest/download/Melody-monitor.exe)
 
 Запускаете приложение. После запуска оно будет находится в трее (возле часов).
 
