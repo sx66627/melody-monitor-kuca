@@ -7,7 +7,7 @@
 # Melody Monitor Extended
 
 ## Введение
-Это форк программы [Melody Monitor for OBS](https://github.com/SuperZombi/melody-monitor). Я взял её и дописал функционал, который  мне был необходим. После, упаковал в единственный exe файл как и у автора.
+Это форк программы [Melody Monitor for OBS](https://github.com/SuperZombi/melody-monitor) написанный на python. Я взял её и дописал функционал, который  мне был необходим. После, упаковал в единственный exe файл как и у автора.
 
 ## Возможности
 
