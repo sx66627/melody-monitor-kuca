@@ -50,7 +50,8 @@
 Результат:
 
 ![track1](github/track1.jpg "track1")
- или  
+
+или  
 ![track2](github/track2.jpg "track2")
 
 ## Обратная связь
